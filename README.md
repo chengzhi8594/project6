@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-First time commit
+First test repo on the Complete Ruby on Rails Developer course.
